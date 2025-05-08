@@ -1,0 +1,15 @@
+{
+  "sent_messages": [
+    {
+      "id": "b7846058c0aa166453982be652b24190",
+      "from": "abishek",
+      "to": "madhav",
+      "encrypted_content": "Z0FBQUFBQm9ITzJwY1FCX1pkXzM3cVhtS1lPMGR5XzVBN2ZaX2tDaFY5UlEwRUZMN2ZWc1p6X2dPZjhpRDQ3MHkyc2tNV0dkUjYxZTVjUXpiRkZDc3pmZUFERkoxeU1RVlV3Q2hmTGNoMWpxUUdGN0Y0YjdZaDg9",
+      "salt": "S+DeZs4wvAzEN92EMOjK0w==",
+      "sent_time": 1746726313.3293788,
+      "unlock_time": 1746726493.3293788,
+      "message": "Hi Madhav, how are you?"
+    }
+  ],
+  "received_messages": []
+}
